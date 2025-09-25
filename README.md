@@ -1,0 +1,2 @@
+# sbot
+slimey bot
